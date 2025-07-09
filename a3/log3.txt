@@ -1,0 +1,7 @@
+Received: uuid=983d4168-b757-4ef5-bc47-f0b94bca820b, flag=0, less, 0
+Ignored message from 983d4168-b757-4ef5-bc47-f0b94bca820b
+Sent: uuid=a5e4a007-4679-414a-aff9-4262dd1c8aff, flag=0
+Received: uuid=a5e4a007-4679-414a-aff9-4262dd1c8aff, flag=0, same, 0
+Leader is decided to a5e4a007-4679-414a-aff9-4262dd1c8aff.
+Sent: uuid=a5e4a007-4679-414a-aff9-4262dd1c8aff, flag=1
+Leader is a5e4a007-4679-414a-aff9-4262dd1c8aff
